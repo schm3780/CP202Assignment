@@ -2,3 +2,35 @@
 ---
 
 @import "{{ site.theme }}";
+
+body { color: #C1C5CC;
+background-color: #484A4C;}
+
+
+.navbar {
+	background-color: #2E2F30;
+	font-family: Arial;
+	text-align: center;
+	padding: 14px;
+}
+
+.navbar a{
+	font-size: 20px;
+	color: #F1F7FF;
+	text-align: center;
+	padding: 14px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.navbar a:hover{
+	background-color: #484A4C;
+}
+
+.pagecontent {
+	font-family: Arial;
+	font-size: 25px;
+	color: #F1F7FF;
+	padding: 14px;
+}
+
