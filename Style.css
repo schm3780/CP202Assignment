@@ -80,10 +80,27 @@ background-color: #484A4C;}
 	text-align: left;
 }
 
+.pagecontent a{
+	font-family: Arial;
+	font-size: 25px;
+	color: #F1F7FF;
+	background-color: #65696d;
+	text-decoration: none;
+	text-align: left;
+}
+
+
+.pagecontent a:hover{
+	background-color: #484A4C;
+}
+
 .eventcontent a:hover{
 	background-color: #484A4C;
 }
 
 .map {
 	text-align: center;
+	background-color: #65696d;
+	margin-right: 150px;
+	margin-left: 150px;
 }
