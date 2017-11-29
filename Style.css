@@ -7,7 +7,6 @@ background-color: #484A4C;}
 	font-family: Arial;
 	text-align: center;
 	padding: 14px;
-	margin-right: 150px;
 }
 
 .navbar a{
@@ -28,5 +27,44 @@ background-color: #484A4C;}
 	font-size: 25px;
 	color: #F1F7FF;
 	padding: 14px;
+	margin-right: 150px;
+	margin-left: 150px;
+	background-color: #65696d;
 }
+
+.foot {
+	font-family: Arial;
+	font-size: 10px;
+	color: #F1F7FF;
+	padding: 14px;
+	margin-right: 150px;
+	margin-left: 150px;
+  	position: fixed;
+  	left: 0;
+ 	bottom: 0;
+}
+
+.pagetitle {
+	font-family: Arial;
+	font-size: 50px;
+	text-align: center;
+	text-decoration: underline;
+	color: #F1F7FF;
+	padding: 14px;
+	margin-right: 150px;
+	margin-left: 150px;
+	background-color: #65696d;
+}
+
+.eventcontent {
+	font-family: Arial;
+	font-size: 15px;
+	color: #F1F7FF;
+	padding: 14px;
+	margin-right: 200px;
+	margin-left: 200px;
+	background-color: #858b91;
+}
+
+
 
